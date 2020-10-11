@@ -1,0 +1,144 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Niche Cafe",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-aa4d1599ef2074a406a9e14d9ac0801e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-3270a3ac55d9fd2b81990b0f59d6a095.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-dd8c82d383ee7dab7c4572a7ce5ed320.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4 (Pro)",
+            "screenshot": "screenshots\/home-4-pro-.jpg",
+            "source": "templates\/home-4-pro-5119a966a8c56e749757d9a152378c8b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Selection",
+            "screenshot": "screenshots\/our-selection.jpg",
+            "source": "templates\/our-selection-3e9ddb941c2eddea7bcc55ee9eeb5e6a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Selection 2",
+            "screenshot": "screenshots\/our-selection-2.jpg",
+            "source": "templates\/our-selection-2-92e76d3db0183020db6bcbe8cfd44173.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Item",
+            "screenshot": "screenshots\/single-item.jpg",
+            "source": "templates\/single-item-b6041b4cdddb6926f20287fd3ccab722.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Cafe",
+            "screenshot": "screenshots\/our-cafe.jpg",
+            "source": "templates\/our-cafe-8dfa3dc0255dd58d733f98c92307e712.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-991dd5c42897b18fd5096f95a32401fa.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us (Pro)",
+            "screenshot": "screenshots\/contact-us-pro-.jpg",
+            "source": "templates\/contact-us-pro-4ad9f8d51910c6e0db23d1560a568f9c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": []
+}

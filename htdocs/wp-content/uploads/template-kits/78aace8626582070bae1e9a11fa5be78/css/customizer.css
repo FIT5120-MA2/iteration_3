@@ -1,0 +1,18 @@
+/* Envato Template Kits Custom Styling - classes addd to Advanced tab of element they affect*/
+.envato-kit-192-slider .elementor-slide-description{
+	display: block;
+	background-color: #FFF !important;
+}
+.elementor-flip-box:hover, .elementor-image:hover{
+	cursor: crosshair;
+}
+.envato-kit-196-bg-clip .elementor-widget-container{
+	   
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-size: auto;
+}

@@ -1,0 +1,17 @@
+.envato-kit-79-form .elementor-field-type-checkbox .elementor-field-option{
+	width: 25%;
+	padding: 3px;
+}
+.envato-kit-79-form .elementor-field-type-checkbox .elementor-field-option label{
+	vertical-align: top !important;
+}
+@media screen and (max-width: 460px){
+	.envato-kit-79-form .elementor-field-type-checkbox .elementor-field-option{
+		width: 50%;
+	}
+}
+
+.envato-kit-79-price-icon .elementor-price-list .elementor-price-list-image img{
+	width: 40px;
+ opacity: .3;
+}

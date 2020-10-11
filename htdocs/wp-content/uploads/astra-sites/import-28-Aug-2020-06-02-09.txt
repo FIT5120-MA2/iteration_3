@@ -1,0 +1,307 @@
+
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#000000","link-color":"#ff770f","theme-color":"#ff770f","link-h-color":"#000000","footer-bg-obj":{"background-color":"rgba(8,12,17,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"","footer-link-color":"","footer-link-h-color":"","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#ff770f","button-bg-h-color":"rgba(255,136,0,0.85)","theme-button-padding":{"desktop":{"top":"15","right":"40","bottom":"15","left":"40"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":30,"theme-button-border-group-border-size":{"top":"","right":"","bottom":"","left":""},"footer-sml-layout":"footer-sml-layout-1","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","footer-sml-section-2":"","footer-sml-section-2-credit":"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]","footer-sml-dist-equal-align":true,"footer-sml-divider":0,"footer-sml-divider-color":"#7a7a7a","footer-layout-width":"content","ast-header-retina-logo":"","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"132","tablet":"","mobile":"130"},"display-site-title":false,"display-site-tagline":0,"logo-title-inline":0,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"button","header-display-outside-menu":false,"header-main-rt-section-html":"<a href=\"\"><button> Reservations<\/button><\/a>","header-main-rt-section-button-text":"Reservation","header-main-rt-section-button-link":"#","header-main-rt-section-button-link-option":{"url":"#","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"theme-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":1,"primary-submenu-b-color":"","primary-submenu-item-b-color":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"fade","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Josefin Sans', sans-serif","body-font-variant":"400","body-font-weight":"400","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","para-margin-bottom":"","body-text-transform":"","headings-font-family":"'Berkshire Swash', handwriting","headings-font-weight":"400","headings-text-transform":"","headings-line-height":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"64","tablet":"100","mobile":"70","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"50","tablet":"45","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"36","tablet":"32","mobile":"40","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"28","tablet":"25","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"22","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"18","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":false,"mobile-header-toggle-target":"icon","transparent-header-logo":"","transparent-header-retina-logo":"","different-transparent-logo":0,"different-transparent-retina-logo":0,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"both","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"'Berkshire Swash', handwriting","font-weight-h1":"normal","text-transform-h1":"","line-height-h1":"","font-family-h2":"inherit","font-weight-h2":"inherit","text-transform-h2":"","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"inherit","text-transform-h3":"","line-height-h3":"","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":1,"theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.3.2","theme-auto-version":"2.3.1","button-v-padding":8,"different-mobile-logo":false,"mobile-header-toggle-btn-style-color":"#ff770f","mobile-header-toggle-btn-border-radius":3,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"submenu-open-below-header":false,"is_addon_queue_running":true,"is_astra_addon_queue_running":false,"is_theme_queue_running":false},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/394/wxr.xml
+Inserted - Term 4 - {"term_id":4,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 561 - custom_css - astra
+Inserted - Post 562 - page - Home
+Inserted - Post 564 - page - About Us
+Inserted - Post 566 - page - Menu
+Inserted - Post 568 - page - Contact
+Inserted - Post 17 - nav_menu_item - 
+Inserted - Post 570 - nav_menu_item - 
+Inserted - Post 571 - nav_menu_item - 
+Inserted - Post 572 - nav_menu_item - 
+Inserted - Post 143 - attachment - 5stars-free-img
+Inserted - Post 172 - attachment - pic41-free-img
+Inserted - Post 268 - attachment - favicon-free-img
+Inserted - Post 573 - custom_css - astra
+Inserted - Post 574 - attachment - fresco-free-logo
+Inserted - Post 575 - attachment - frill-free-img.png
+Inserted - Post 576 - attachment - divider-free-img.png
+Inserted - Post 577 - attachment - try.jpg
+Inserted - Post 578 - attachment - leaf-free-img.png
+Inserted - Post 579 - attachment - pic28-free-img.jpg
+Inserted - Post 580 - attachment - pic41-free-img.png
+Inserted - Post 581 - attachment - pic42-free-img.png
+Inserted - Post 582 - attachment - pic43-free-img.png
+Inserted - Post 583 - attachment - pic61-free-img.jpg
+Inserted - Post 304 - attachment - pic44-free-img.png
+Inserted - Post 305 - attachment - pic45-free-img.png
+Inserted - Post 306 - attachment - pic46-free-img.png
+Inserted - Post 307 - attachment - old-typical-phone.png
+Inserted - Post 311 - attachment - pic34-free-img.jpg
+Inserted - Post 316 - attachment - pic49-free-img.png
+Inserted - Post 317 - attachment - quotes2-free-img.png
+Inserted - Post 318 - attachment - tripadvisorlogo1-free-img.png
+Inserted - Post 319 - attachment - yelp-free-img.png
+Inserted - Post 320 - attachment - google-reviews-free-img.png
+Inserted - Post 321 - attachment - fb-free-imng.png
+Inserted - Post 322 - attachment - tweet-free-img.png
+Inserted - Post 323 - attachment - fork-free-img.png
+Inserted - Post 324 - attachment - knife-free-imge.png
+Inserted - Post 327 - attachment - pic33-free-img.jpg
+Inserted - Post 329 - attachment - pic18-free-img-1.jpg
+Inserted - Post 330 - attachment - pic19-free-img.jpg
+Inserted - Post 331 - attachment - pic50-free-img.png
+Inserted - Post 332 - attachment - pic51-free-img.png
+Inserted - Post 584 - attachment - pic02-free-img
+Inserted - Post 585 - attachment - pic03-free-img
+Inserted - Post 586 - attachment - pic05-free-img
+Inserted - Post 555 - attachment - back01-free-img
+Inserted - Post 666 - attachment - chef02-free-img
+Inserted - Post 964 - attachment - About-us-banner
+Inserted - Post 965 - attachment - image-01
+Inserted - Post 966 - attachment - image-02
+Inserted - Post 967 - attachment - Pizza-slice
+Inserted - Post 968 - attachment - Prepare-dish-img
+Inserted - Post 969 - attachment - about-image-04
+Inserted - Post 970 - attachment - about-image-01
+Inserted - Post 971 - attachment - about-image-02
+Inserted - Post 982 - attachment - fresco-pizza-top
+Inserted - Post 988 - attachment - dine-out
+Inserted - Post 1006 - attachment - italian-menu-01
+Inserted - Post 1012 - attachment - Menu-item-1
+Inserted - Post 1014 - attachment - italian-social-01
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/italian-restaurant-07\/wp-content\/uploads\/sites\/394\/2018\/12\/fresco-free-logo.svg","nav_menu_locations":{"primary":"primary-menu","footer_menu":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"10","elementor_stretched_section_container":null,"elementor_load_fa4_shim":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 1015 - attachment - fresco-free-logo
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Food Save Hero' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "43"
+Source - http://18.219.247.101/wp-content/uploads/2018/12/about-bg-2.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/about-bg-2.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/about-bg-2.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2020/08/default.png
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2020/08/default.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "41"
+Source - http://18.219.247.101/wp-content/uploads/2018/12/project-background.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/project-background.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/project-background.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2020/08/default.png
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2020/08/default.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/water-sports-03.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/water-sports-03.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/water-sports-03.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/water-sports-04.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/water-sports-04.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/water-sports-04.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/water-sports-01.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/water-sports-01.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/water-sports-01.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/winter-sports-01.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/winter-sports-01.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/winter-sports-01.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/winter-sports-02.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/winter-sports-02.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/winter-sports-02.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/winter-sports-03.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/winter-sports-03.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/winter-sports-03.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/camp-1.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/camp-1.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/camp-1.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/camp-2.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/camp-2.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/camp-2.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/camp-3.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/camp-3.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/camp-3.jpg","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "275"
+Source - http://18.219.247.101/wp-content/uploads/2018/12/services-bg.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/services-bg.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/services-bg.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2020/08/default.png
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2020/08/default.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/services-1.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/services-1.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/services-1.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/services-3.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/services-3.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/services-3.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/services-2.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/services-2.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/services-2.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/winter-sport.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/winter-sport.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/winter-sport.jpg","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "273"
+Source - http://18.219.247.101/wp-content/uploads/2018/12/about-bg-5.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/about-bg-5.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/about-bg-5.jpg","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2020/08/default.png
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2020/08/default.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2018/12/mission-2.jpg
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2018/12/mission-2.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/mission-2.jpg","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "271"
+Source - http://18.219.247.101/wp-content/uploads/2020/08/BeforePNG.png
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2020/08/BeforePNG.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/BeforePNG.png","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2020/08/DuringPNG-1.png
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2020/08/DuringPNG-1.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/DuringPNG-1.png","id":0}
+Source - http://18.219.247.101/wp-content/uploads/2020/08/AfterPNG.png
+BATCH - SKIP Image - {from filter} - http://18.219.247.101/wp-content/uploads/2020/08/AfterPNG.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/AfterPNG.png","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "568"
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/dine-out.jpg
+Log - {"id":"988","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/dine-out.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+Log - {"id":"532","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/frill-free-img.png
+Log - {"id":"575","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/frill-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic34-free-img.jpg
+Log - {"id":"311","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic34-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/Prepare-dish-img.jpg
+Log - {"id":"968","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/Prepare-dish-img.jpg"}
+---- Processing WordPress Page - for Gutenberg ---- "566"
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/dine-out.jpg
+Log - {"id":"988","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/dine-out.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+Log - {"id":"532","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/frill-free-img.png
+Log - {"id":"575","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/frill-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2019/01/pic05-free-img.jpg
+Log - {"id":"586","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2019\/01\/pic05-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2019/01/pic02-free-img.png
+Log - {"id":"584","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2019\/01\/pic02-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/divider-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/divider-free-img.png
+Log - {"id":"576","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/divider-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2019/01/back01-free-img.jpg
+Log - {"id":"555","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2019\/01\/back01-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2019/01/pic03-free-img.png
+Log - {"id":"585","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2019\/01\/pic03-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/02/italian-menu-01.jpg
+Log - {"id":"1006","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/02\/italian-menu-01.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/leaf-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/leaf-free-img.png
+Log - {"id":"578","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/leaf-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic18-free-img-1.jpg
+Log - {"id":"329","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic18-free-img-1.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic41-free-img.png
+Log - {"id":"580","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic41-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic42-free-img.png
+Log - {"id":"581","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic42-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic43-free-img.png
+Log - {"id":"582","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic43-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic33-free-img.jpg
+Log - {"id":"327","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic33-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic44-free-img.png
+Log - {"id":"304","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic44-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic45-free-img.png
+Log - {"id":"305","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic45-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic46-free-img.png
+Log - {"id":"306","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic46-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/Prepare-dish-img.jpg
+Log - {"id":"968","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/Prepare-dish-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/old-typical-phone.png
+Log - {"id":"307","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/old-typical-phone.png"}
+---- Processing WordPress Page - for Gutenberg ---- "564"
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/About-us-banner.jpg
+Log - {"id":"964","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/About-us-banner.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+Log - {"id":"532","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/frill-free-img.png
+Log - {"id":"575","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/frill-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/leaf-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/leaf-free-img.png
+Log - {"id":"578","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/leaf-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/image-02.jpg
+Log - {"id":"966","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/image-02.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/image-01.jpg
+Log - {"id":"965","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/image-01.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic34-free-img.jpg
+Log - {"id":"311","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic34-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/dine-out.jpg
+Log - {"id":"988","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/dine-out.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2019/01/chef02-free-img.jpg
+Log - {"id":"666","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2019\/01\/chef02-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/about-image-01.jpg
+Log - {"id":"970","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/about-image-01.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/about-image-02.jpg
+Log - {"id":"971","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/about-image-02.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/about-image-04.jpg
+Log - {"id":"969","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/about-image-04.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic61-free-img.jpg
+Log - {"id":"583","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic61-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/divider-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/divider-free-img.png
+Log - {"id":"576","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/divider-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/quotes2-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/09/quotes2-free-img.png
+Log - {"id":"317","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/quotes2-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic49-free-img.png
+Log - {"id":"316","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic49-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/tripadvisorlogo1-free-img.png
+Log - {"id":"318","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/tripadvisorlogo1-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/yelp-free-img.png
+Log - {"id":"319","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/yelp-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/google-reviews-free-img.png
+Log - {"id":"320","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/google-reviews-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/tweet-free-img.png
+Log - {"id":"322","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/tweet-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/fb-free-imng.png
+Log - {"id":"321","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/fb-free-imng.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/Prepare-dish-img.jpg
+Log - {"id":"968","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/Prepare-dish-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/old-typical-phone.png
+Log - {"id":"307","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/old-typical-phone.png"}
+---- Processing WordPress Page - for Gutenberg ---- "562"
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/fresco-pizza-top.jpg
+Log - {"id":"982","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/fresco-pizza-top.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/italian-restaurant-07/wp-includes/images/media/default.png
+Log - {"id":"532","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/08\/default.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/frill-free-img.png
+Log - {"id":"575","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/frill-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic28-free-img.jpg
+Log - {"id":"579","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic28-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/Pizza-slice.jpg
+Log - {"id":"967","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/Pizza-slice.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic34-free-img.jpg
+Log - {"id":"311","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic34-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/leaf-free-img.png
+Log - {"id":"578","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/leaf-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic33-free-img.jpg
+Log - {"id":"327","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic33-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/02/Menu-item-1.jpg
+Log - {"id":"1012","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/02\/Menu-item-1.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic18-free-img-1.jpg
+Log - {"id":"329","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic18-free-img-1.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic19-free-img.jpg
+Log - {"id":"330","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic19-free-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/quotes2-free-img.png
+Log - {"id":"317","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/quotes2-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic49-free-img.png
+Log - {"id":"316","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic49-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic50-free-img.png
+Log - {"id":"331","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic50-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/pic51-free-img.png
+Log - {"id":"332","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/pic51-free-img.png"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2020/01/Prepare-dish-img.jpg
+Log - {"id":"968","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2020\/01\/Prepare-dish-img.jpg"}
+Source - https://websitedemos.net/italian-restaurant-07/wp-content/uploads/sites/394/2018/12/old-typical-phone.png
+Log - {"id":"307","url":"http:\/\/18.219.247.101\/wp-content\/uploads\/2018\/12\/old-typical-phone.png"}
+---- Processing MISC ----
+Post ID: 563
+Post ID: 565
+Post ID: 569
+Post ID: 567
+Post ID: 272
+Post ID: 274
+Post ID: 276
+Post ID: 44
+Post ID: 42
+Post ID: 20
+Batch Process Complete!

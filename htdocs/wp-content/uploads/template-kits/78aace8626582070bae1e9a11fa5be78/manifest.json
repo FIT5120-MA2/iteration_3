@@ -1,0 +1,150 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Illustrator",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-0c400b3987d655519c3be7c02fbbb4f7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-c59b068173c98b4205d810c1dc8c9bc4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio-0a8222f4c2632818ab94871a184c38e0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio 2 (Pro)",
+            "screenshot": "screenshots\/portfolio-2-pro-.jpg",
+            "source": "templates\/portfolio-2-pro-195717cf48700953d6bbf06e7897bce5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio 3 (Pro)",
+            "screenshot": "screenshots\/portfolio-3-pro-.jpg",
+            "source": "templates\/portfolio-3-pro-e04ec316cb190e41d7ce02e710b6f2e8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me-272ab9a80f9eaaa7c9bab38090f8decf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Work",
+            "screenshot": "screenshots\/single-work.jpg",
+            "source": "templates\/single-work-f5d85bbb1f7626e29ac05ae27ea74a1a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Comissions (Pro)",
+            "screenshot": "screenshots\/comissions-pro-.jpg",
+            "source": "templates\/comissions-pro-7ea3a7e7317f96433790b6f4847c76eb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-07869b21ecee7495df642d5561932a3a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

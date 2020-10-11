@@ -1,0 +1,174 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "House Cleaning Company",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-498fa6b14a68573f8c4193c812a996f5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 Pro",
+            "screenshot": "screenshots\/home-2-pro.jpg",
+            "source": "templates\/home-2-pro-d8920bdfdb2cd458a1f4e5efe8b2add4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3 Pro",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-pro-d7cef5747cd40b17b6398aa98c89ef1b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us 1",
+            "screenshot": "screenshots\/about-us-1.jpg",
+            "source": "templates\/about-us-1-ee87bc4c83eae4259497b18d56dff7bf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-b43666b825d7198ea113ca0d45b576ce.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services 1",
+            "screenshot": "screenshots\/services-1.jpg",
+            "source": "templates\/services-1-6badda501b51c3d00461ce1087b8dd2e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services 2",
+            "screenshot": "screenshots\/services-2.jpg",
+            "source": "templates\/services-2-6ed765fd2073c79e6a47198f36d62b4a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details-565853907cb5dd9d87ecba5b47db3fed.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Rates",
+            "screenshot": "screenshots\/rates.jpg",
+            "source": "templates\/rates-cd0dc1a0a0db21f425933de27caa3c71.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-36860efc74a44f75b9aaf2df95499f48.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Booking Pro",
+            "screenshot": "screenshots\/service-booking-pro.jpg",
+            "source": "templates\/service-booking-pro-104646b4bc8ae14acf0ff212f0ee3519.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-c6a18f07546ad8d39d6371ab3ad561e5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}
